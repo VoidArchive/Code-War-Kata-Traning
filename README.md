@@ -1,4 +1,3 @@
-# Code-War-Kata-Traning
+#Code War Kata in Python
 
-gi
-##For Code War Kata Traning in Python
+All the traning I did in Code War
